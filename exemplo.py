@@ -7,3 +7,5 @@ Created on Tue Jun 23 21:14:51 2026
 """
 
 versao 1
+
+versao 2
